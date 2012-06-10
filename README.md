@@ -1,4 +1,4 @@
 Hadoop-ECDF
 ===========
 
-Map Reduce to calculate ECDF 
+Hadoop Map Reduce program to calculate ECDF 
